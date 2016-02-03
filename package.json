@@ -9,15 +9,15 @@
   },
   "author": "@simonedesordi",
   "dependencies": {
-    "minimist": "*",
-    "lodash": "*",
-    "winston": "*",
+    "babel-core": "6.*",
+    "babel-polyfill": "6.*",
+    "dateformat": "*",
     "jsonfile": "^2.2.3",
+    "ramda": "^0.19.1",
+    "minimist": "*",
     "request-json": "*",
     "rx-node": "*",
-    "dateformat": "*",
-    "babel-core": "6.*",
-    "babel-polyfill": "6.*"
+    "winston": "*"
   },
   "devDependencies": {
     "babel": "6.*",
